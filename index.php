@@ -13,7 +13,9 @@
 			width: 100%;
 		}
 		.mainnav {
-			background-image: url("./assets/images");
+			background-image: url("./assets/images/menubg1.svg");
+			background-repeat: none;
+			background-size: 100%;
 			color: white;
 		}
 		.mainnav a {
